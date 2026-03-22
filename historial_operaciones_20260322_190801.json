@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2026-03-22T19:04:00.122985",
+    "activo": "EURUSD-OTC",
+    "direccion": "CALL",
+    "razon": [
+      "BB lower"
+    ],
+    "resultado": "? loose",
+    "ganancia": -1.0,
+    "balance": 9946.42
+  },
+  {
+    "timestamp": "2026-03-22T19:05:00.307300",
+    "activo": "GBPUSD-OTC",
+    "direccion": "CALL",
+    "razon": [
+      "BB lower"
+    ],
+    "resultado": "\u2713 GANADA",
+    "ganancia": 0.8700000000000001,
+    "balance": 9947.29
+  },
+  {
+    "timestamp": "2026-03-22T19:06:00.603135",
+    "activo": "USDJPY-OTC",
+    "direccion": "CALL",
+    "razon": [
+      "BB lower"
+    ],
+    "resultado": "? loose",
+    "ganancia": -1.0,
+    "balance": 9946.29
+  },
+  {
+    "timestamp": "2026-03-22T19:07:00.814764",
+    "activo": "AUDUSD-OTC",
+    "direccion": "CALL",
+    "razon": [
+      "BB lower"
+    ],
+    "resultado": "\u2713 GANADA",
+    "ganancia": 0.8500000000000001,
+    "balance": 9947.14
+  },
+  {
+    "timestamp": "2026-03-22T19:08:00.963566",
+    "activo": "USDCAD-OTC",
+    "direccion": "CALL",
+    "razon": [
+      "BB lower",
+      "Below SMA20"
+    ],
+    "resultado": "? loose",
+    "ganancia": -1.0,
+    "balance": 9946.14
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2026-03-22T18:45:00.486875",
+    "activo": "GBPUSD-OTC",
+    "direccion": "CALL",
+    "razon": [
+      "Secuencia de m\u00ednimos crecientes (reversi\u00f3n)"
+    ],
+    "resultado": "? loose",
+    "ganancia": -1.0,
+    "balance": 9949.42
+  },
+  {
+    "timestamp": "2026-03-22T18:46:00.669280",
+    "activo": "USDJPY-OTC",
+    "direccion": "CALL",
+    "razon": [
+      "Secuencia de m\u00ednimos crecientes (reversi\u00f3n)"
+    ],
+    "resultado": "? loose",
+    "ganancia": -1.0,
+    "balance": 9948.42
+  },
+  {
+    "timestamp": "2026-03-22T18:47:00.703370",
+    "activo": "AUDUSD-OTC",
+    "direccion": "CALL",
+    "razon": [
+      "Secuencia de m\u00ednimos crecientes (reversi\u00f3n)"
+    ],
+    "resultado": "? loose",
+    "ganancia": -1.0,
+    "balance": 9947.42
+  }
+]

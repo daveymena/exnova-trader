@@ -1,0 +1,36 @@
+[
+  {
+    "timestamp": "2026-03-22T18:37:48.324343",
+    "activo": "GBPUSD-OTC",
+    "direccion": "CALL",
+    "razon": [
+      "MACD alcista"
+    ],
+    "resultado": "ESTADO: timeout",
+    "ganancia": 0,
+    "balance_actual": 9952.7
+  },
+  {
+    "timestamp": "2026-03-22T18:39:49.244591",
+    "activo": "USDJPY-OTC",
+    "direccion": "CALL",
+    "razon": [
+      "MACD alcista",
+      "Patr\u00f3n Engulfing Alcista"
+    ],
+    "resultado": "ESTADO: timeout",
+    "ganancia": 0,
+    "balance_actual": 9952.57
+  },
+  {
+    "timestamp": "2026-03-22T18:41:50.186246",
+    "activo": "AUDUSD-OTC",
+    "direccion": "PUT",
+    "razon": [
+      "Modelo PPO: PUT"
+    ],
+    "resultado": "ESTADO: timeout",
+    "ganancia": 0,
+    "balance_actual": 9951.42
+  }
+]
