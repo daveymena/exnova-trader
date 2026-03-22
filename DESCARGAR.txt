@@ -1,0 +1,142 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║         🚀 EXNOVA TRADING BOT - LISTO PARA DESCARGAR 🚀                 ║
+║                                                                           ║
+║                     Version 1.0.0 - 2026-03-22                           ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+📦 ARCHIVOS DESCARGABLES
+═══════════════════════════════════════════════════════════════════════════
+
+1. exnova-trader-bot.tar.gz (255 KB) ⭐ RECOMENDADO
+   - Comprimido
+   - Más pequeño y rápido de descargar
+   - Ideal para Linux/Mac
+   
+   Hash SHA256:
+   ea7006d1fa746d12a135859e51472569765f14d5edbafebba32e8f3ca3a776b8
+
+2. exnova-trader-bot.tar (1.5 MB)
+   - Sin comprimir
+   - Funciona en Linux/Mac/Windows
+
+═══════════════════════════════════════════════════════════════════════════
+
+🚀 INSTALACIÓN EN 4 PASOS
+═══════════════════════════════════════════════════════════════════════════
+
+PASO 1: Extraer
+   tar -xzf exnova-trader-bot.tar.gz
+   cd exnova-trader
+
+PASO 2: Instalar
+   bash INSTALL.sh          (Linux/Mac)
+   INSTALL.bat              (Windows)
+
+PASO 3: Configurar
+   nano .env                (edita con tus credenciales)
+
+PASO 4: Ejecutar
+   python3 bot_practice_operativo.py
+
+✨ ¡El bot comenzará a operar automáticamente!
+
+═══════════════════════════════════════════════════════════════════════════
+
+✅ QUÉ INCLUYE EL PAQUETE
+═══════════════════════════════════════════════════════════════════════════
+
+✓ bot_final.py              - Bot principal SIN RESTRICCIONES
+✓ bot_practice_operativo.py - Ejecutor automático
+✓ .env.example              - Plantilla de configuración
+✓ requirements.txt          - Dependencias Python
+✓ INSTALL.sh               - Instalador Linux/Mac
+✓ INSTALL.bat              - Instalador Windows
+✓ README_DOWNLOAD.md       - Guía rápida
+✓ exnovaapi/               - API de Exnova
+✓ data/                    - Carpeta de resultados
+
+═══════════════════════════════════════════════════════════════════════════
+
+⚙️ CONFIGURACIÓN MÍNIMA
+═══════════════════════════════════════════════════════════════════════════
+
+Edita .env con:
+
+EXNOVA_EMAIL=tu_email@gmail.com
+EXNOVA_PASSWORD=tu_password
+
+✓ ACCOUNT_TYPE=PRACTICE    (sin riesgo real)
+✓ CAPITAL_PER_TRADE=1.0    (dinero por operación)
+✓ EXPIRATION_TIME=60       (segundos por operación)
+
+═══════════════════════════════════════════════════════════════════════════
+
+📊 RESULTADOS
+═══════════════════════════════════════════════════════════════════════════
+
+El bot genera automáticamente:
+
+data/operaciones_ejecutadas/
+├── sesion_YYYYMMDD_HHMMSS.log   (logs detallados)
+└── trades_YYYYMMDD_HHMMSS.json  (datos JSON)
+
+Cada operación incluye:
+- Timestamp
+- Activo (EURUSD, GBPUSD, etc)
+- Dirección (CALL/PUT)
+- Resultado (WIN/LOSS)
+- Ganancia/Pérdida
+
+═══════════════════════════════════════════════════════════════════════════
+
+🔧 REQUISITOS
+═══════════════════════════════════════════════════════════════════════════
+
+✓ Python 3.7+
+✓ pip (gestor de paquetes)
+✓ Conexión a internet
+✓ Cuenta Exnova (puede ser demo)
+
+═══════════════════════════════════════════════════════════════════════════
+
+📝 NOTAS IMPORTANTES
+═══════════════════════════════════════════════════════════════════════════
+
+1. PRACTICE Mode = Dinero SIMULADO (sin riesgo real)
+2. Nunca compartas tu archivo .env (contiene credenciales)
+3. Logs se guardan automáticamente en data/operaciones_ejecutadas/
+4. Puedes correr el bot 24/7 en PRACTICE mode
+5. Para cambiar a REAL, edita ACCOUNT_TYPE en .env ⚠️
+
+═══════════════════════════════════════════════════════════════════════════
+
+❓ SOPORTE
+═══════════════════════════════════════════════════════════════════════════
+
+Si tienes problemas:
+
+1. Lee DOWNLOAD_INSTRUCTIONS.md
+2. Verifica .env bien configurado
+3. Revisa logs en data/operaciones_ejecutadas/
+4. Verifica conexión a internet
+5. Verifica Python 3.7+: python3 --version
+
+═══════════════════════════════════════════════════════════════════════════
+
+🎉 ¡LISTO PARA USAR!
+═══════════════════════════════════════════════════════════════════════════
+
+Ya tienes todo lo necesario para operar. Descarga, extrae, configura y ¡anda!
+
+Para más información, lee:
+- README_DOWNLOAD.md (guía rápida)
+- DOWNLOAD_INSTRUCTIONS.md (instalación detallada)
+- PACKAGE_INFO.md (información general)
+
+═══════════════════════════════════════════════════════════════════════════
+
+Bot EXNOVA Trading - V1.0.0
+Última actualización: 2026-03-22
+
