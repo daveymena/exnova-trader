@@ -1,0 +1,32 @@
+{
+  "rsi_oversold": {
+    "confidence": 0.6,
+    "wins": 0,
+    "losses": 0
+  },
+  "macd_cross": {
+    "confidence": 0.5,
+    "wins": 0,
+    "losses": 0
+  },
+  "bollinger_reversion": {
+    "confidence": 0.55,
+    "wins": 0,
+    "losses": 0
+  },
+  "trend_follow": {
+    "confidence": 0.6,
+    "wins": 0,
+    "losses": 0
+  },
+  "support_bounce": {
+    "confidence": 0.65,
+    "wins": 0,
+    "losses": 0
+  },
+  "confluence": {
+    "confidence": 0.95,
+    "wins": 19,
+    "losses": 4
+  }
+}

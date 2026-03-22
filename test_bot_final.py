@@ -82,7 +82,6 @@ def main():
                     learning_summary = "Test mode"
                     
                     import threading
-                    import time
                     
                     ollama_result = None
                     ollama_error = None

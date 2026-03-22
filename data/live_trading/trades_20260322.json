@@ -1,0 +1,4 @@
+{"asset": "EURUSD", "direction": "CALL", "entry_price": 1.095, "exit_price": 1.096, "pnl": 0.85, "outcome": "WIN", "duration": "60s", "entry_quality": "GOOD", "reason": "RSI oversold + MACD cross"}
+{"asset": "GBPUSD", "direction": "PUT", "entry_price": 1.275, "exit_price": 1.2745, "pnl": -1.0, "outcome": "LOSS", "duration": "120s", "entry_quality": "FAIR", "reason": "Trend reversal signal"}
+{"asset": "AUDUSD", "direction": "CALL", "entry_price": 0.675, "exit_price": 0.6765, "pnl": 0.5, "outcome": "WIN", "duration": "90s", "entry_quality": "EXCELLENT", "reason": "Support bounce confirmation"}
+{"asset": "NZDUSD", "direction": "PUT", "entry_price": 0.585, "exit_price": 0.584, "pnl": 0.8, "outcome": "WIN", "duration": "75s", "entry_quality": "GOOD", "reason": "Bollinger band middle rejection"}

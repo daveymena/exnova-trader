@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-03-22T22:35:16.425587",
+  "duration": "0:00:29.235184",
+  "total_trades": 10,
+  "winning_trades": 7,
+  "losing_trades": 3,
+  "win_rate": "70.0%",
+  "daily_pnl": "$1.72",
+  "roi": "17.24%",
+  "profit_factor": "1.57",
+  "max_drawdown": "-$1.23",
+  "file": "/exnova-trader/data/adaptive_trading/trades_20260322_223447.json"
+}

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-03-22T22:49:36.866088",
+  "status": "success",
+  "oportunidades": 1,
+  "operaciones": [
+    {
+      "asset": "EURUSD-OTC",
+      "action": "CALL",
+      "score": "60",
+      "setup": "M1_REVERSAL_CALL"
+    }
+  ]
+}

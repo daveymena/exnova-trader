@@ -1,0 +1,54 @@
+{
+  "execution": {
+    "timestamp": "2026-03-22T22:40:43.272970",
+    "email": "daveymena16@gmail.com",
+    "account_type": "PRACTICE"
+  },
+  "analysis": {
+    "timestamp": "2026-03-22T22:40:43.272877",
+    "total_sessions": 5,
+    "successful": 1,
+    "success_rate": "20.0%",
+    "total_opportunities": 1,
+    "avg_opportunities_per_session": "0.20"
+  },
+  "sessions": [
+    {
+      "timestamp": "2026-03-22T22:40:02.976651",
+      "opportunities_found": 1,
+      "setups": [
+        {
+          "asset": "GBPUSD-OTC",
+          "action": "PUT",
+          "score": "85",
+          "setup": "TREND_PULLBACK_PUT"
+        }
+      ],
+      "status": "SUCCESS"
+    },
+    {
+      "timestamp": "2026-03-22T22:40:12.609333",
+      "opportunities_found": 0,
+      "setups": [],
+      "status": "ERROR"
+    },
+    {
+      "timestamp": "2026-03-22T22:40:21.988383",
+      "opportunities_found": 0,
+      "setups": [],
+      "status": "ERROR"
+    },
+    {
+      "timestamp": "2026-03-22T22:40:31.886509",
+      "opportunities_found": 0,
+      "setups": [],
+      "status": "ERROR"
+    },
+    {
+      "timestamp": "2026-03-22T22:40:43.272689",
+      "opportunities_found": 0,
+      "setups": [],
+      "status": "ERROR"
+    }
+  ]
+}
