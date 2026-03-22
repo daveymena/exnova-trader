@@ -1,0 +1,17 @@
+# ⚡ DEPENDENCIAS MÍNIMAS PARA EXNOVA BOT
+
+# Configuración
+python-dotenv>=1.0.0
+
+# Broker API
+websocket-client==1.8.0
+requests>=2.31.0
+
+# Data Analysis (para análisis de datos)
+pandas>=2.0.0
+numpy>=1.24.0
+ta>=0.11.0
+
+# Utils
+setuptools>=65.0
+
